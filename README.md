@@ -14,12 +14,12 @@
 
 
 ## Projects
-A showcase of your projects, with links and descriptions.
+....
 
 ## Services
-A list of the services you offer, like coding, consulting, etc.
+....
 
 ## About
-Your bio or background information.
+....
 
 
