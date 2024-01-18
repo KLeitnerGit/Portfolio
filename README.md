@@ -6,7 +6,7 @@
 ---
 
 
-- [Projects](#projects) - [Services](#services) - [About](#about)
+#### [Projects](#projects)  [Services](#services)  [About](#about)
 
 ---
 
