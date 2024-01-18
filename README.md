@@ -5,8 +5,7 @@
 
 ---
 
-## Navigation:
-- [Home](#home)
+- [Home](portfolio)
 - [Projects](#projects)
 - [Services](#services)
 - [About](#about)
