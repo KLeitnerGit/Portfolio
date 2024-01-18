@@ -6,18 +6,3 @@
 ---
 
 
-####    [Projects](#projects) -    [Services](#services) -    [About](#about)
-
----
-
-
-## Projects
-....
-
-## Services
-....
-
-## About
-....
-
-
