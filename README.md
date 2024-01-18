@@ -5,15 +5,13 @@
 
 ---
 
-- [Home](portfolio)
+
 - [Projects](#projects)
 - [Services](#services)
 - [About](#about)
 
 ---
 
-## Home
-Your introduction or welcome message goes here.
 
 ## Projects
 A showcase of your projects, with links and descriptions.
